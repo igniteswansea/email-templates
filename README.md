@@ -1,2 +1,1 @@
-# letter-templates
-Ignite speaker submission - letter templates
+# Ignite speaker email templates
